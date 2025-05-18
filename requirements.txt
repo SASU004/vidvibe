@@ -1,0 +1,17 @@
+# need to download ollama
+
+# pytube  # has issues with HTTP call
+pytubefix
+pydub
+transformers
+torch
+chromadb
+ollama
+streamlit
+
+requests
+langchain 
+langchain-core
+langchain-ollama
+langchain_community
+langchain_text_splitters
