@@ -134,8 +134,4 @@ This project revolutionizes content consumption by:
 
 ---
 
-## 👨‍💻 Contact
-For inquiries, suggestions, or investment opportunities:
-Email: susmitghosh09@gmail.com
-LinkedIn: [Susmit Ghosh](https://www.linkedin.com/in/ghoshsusmit/)
-GitHub: [Daedalus](https://github.com/Daedalus19)
+
